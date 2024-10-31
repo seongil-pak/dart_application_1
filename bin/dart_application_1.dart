@@ -19,6 +19,8 @@ class ShoppingMall {
     Product('양말', 5000),
   ];
   
+
+  
   int totalCartPrice = 0;  // 장바구니에 담은 상품들의 총 가격
 
   // 판매하는 상품 목록을 출력하는 메서드
